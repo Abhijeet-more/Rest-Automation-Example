@@ -2,7 +2,10 @@
 
 About
 ------------
-This example project helps you understand RestAssured
+This example project helps you understand Rest-Assured
+
+#### RestAssured
+Rest-Assured is an open-source Java Domain-specific language (DSL) that makes testing REST service simple. It simplifies things by eliminating the need to use boiler-plate code to test and validate complex responses. It also supports XML and JSON Request/Responses.
 
 You can find more information in this webpage: http://rest-assured.io/
 
